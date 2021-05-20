@@ -17,6 +17,12 @@ namespace Web112233.Controllers
         public ActionResult HW1()
         {
             return View();
-        } 
+        }
+
+        public ActionResult HW2()
+        {
+            return View();
+        }
+
     }
 }
